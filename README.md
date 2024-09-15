@@ -19,6 +19,5 @@ Below is a tentative timeline for the training, so you have a general understand
  - Software Training Logistics
  - Variables and Operators
  - Loops, Functions, and Control Flow
- - Header Files
- - Classes
- - Objects
+ - Vectors
+ - Compilation and Runtime
