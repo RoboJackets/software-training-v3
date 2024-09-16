@@ -120,12 +120,13 @@ sudo apt upgrade
 
 
 ## Software Training Support Library Download
-
+This section is now updated via bash set up script
 ```bash
 git clone https://github.com/RoboJackets/stsl.git
 ```
 
 
+## isntall ROS Dependencies
 ```bash
 cd /training_ws
 rosdep update && rosdep install --from-paths src --ignore-src -r -y
